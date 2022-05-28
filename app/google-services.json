@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377443843000",
+    "project_id": "kyrsovaya-44756",
+    "storage_bucket": "kyrsovaya-44756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377443843000:android:02bd092dcc7d4f10efed4d",
+        "android_client_info": {
+          "package_name": "com.example.kyrsovaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377443843000-9v669k9mc2gj0hq59ue4dophpqsuhdns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kyrsovaya",
+            "certificate_hash": "e5f8719064f5e27fc48808117bc5d87f917c8bb7"
+          }
+        },
+        {
+          "client_id": "377443843000-8on14ms6c2puc5and4a6sp1q9qqnig29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJlRPJXTd8AosTq3xMsIRA38I_PdbnDPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377443843000-8on14ms6c2puc5and4a6sp1q9qqnig29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
